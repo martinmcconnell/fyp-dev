@@ -11,5 +11,9 @@
   "license": "ISC",
   "dependencies": {
     "@metamask/onboarding": "^1.0.1"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "hardhat": "^2.12.4"
   }
 }
